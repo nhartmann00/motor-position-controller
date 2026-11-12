@@ -1,0 +1,15 @@
+name: motor-ctrl
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - matplotlib
+  - control
+  - slycot
+  - pyyaml
+  - jupyterlab
+  - ipykernel
+  - jupytext
+  - pytest

@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# STM32CubeIDE build output
+Debug/
+Release/
+.metadata/
+*.launch
